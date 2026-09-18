@@ -76,4 +76,4 @@ The system displays:
 ## Conclusion
 
 The project provides a simple and modular approach to analyzing
-student academic performance using Python.
+student academic performance using Python.git remote add origin YOUR_GITHUB_REPOSITORY_URL
